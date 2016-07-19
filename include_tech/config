@@ -1,0 +1,2 @@
+CONFIG_NEL_A=y
+CONFIG_NEL_B="Nelson"
