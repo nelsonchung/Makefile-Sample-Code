@@ -1,0 +1,8 @@
+@nelsonchung ➜ /workspaces/Makefile-Sample-Code/automatic_variales (master) $ make target
+touch a.c
+touch b.c
+#gcc a.c b.c -o target
+echo "depency information is a.c b.c"
+depency information is a.c b.c
+echo "target information is target"
+target information is target
